@@ -1,0 +1,11 @@
+streamlit>=1.25.0
+pandas==1.5.3
+numpy==1.25.2
+matplotlib>=3.5
+seaborn>=0.11
+openai>=0.27
+pandasai>=0.5
+speechrecognition>=3.8
+python-dotenv>=0.20
+openpyxl>=3.0
+pyyaml>=6.0
